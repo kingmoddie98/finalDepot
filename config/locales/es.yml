@@ -1,0 +1,10 @@
+
+en:
+
+  layouts: 
+   application:
+    title: "Publicaciones de Pragmatic"
+    home:  "Inicio"
+    aboutus: "Sobre Nosotros"	
+    privacy: "Intimidad"
+    contact: "Contacto"
